@@ -1,0 +1,28 @@
+name: Why Wellington?
+favicon: null
+layout_spectrum: 0.2537019888404757
+typography_spectrum: 0.10513926716521382
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6188080972060561
+  lightness: 0.08184452424757183
+  saturation: 0.6171858571469784
+  rhythmicContrast: 0.6380176593083888
+purpose: []

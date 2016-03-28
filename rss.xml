@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Why Wellington?]]></title>
         <description><![CDATA[Why Wellington?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/why-wellington/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 01:53:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 01:54:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/why-wellington/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17acf848-8287-4c30-9dd1-14d5463a0a92.png">]]></description>
+            <link>https://thegrid.ai/why-wellington/72c6a522-b4c9-4148-a76a-6669a700917b/index.html</link>
+            <guid isPermaLink="false">72c6a522-b4c9-4148-a76a-6669a700917b</guid>
+            <pubDate>Mon, 28 Mar 2016 01:54:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent.fakl1-1.fna.fbcdn.net/hphotos-xpt1/v/t1.0-9/10432950_818603441493157_6987453062246148631_n.png?oh=8c1ded64356f90408bfdd3199c09d85e&oe=5779764E">]]></description>
-            <link>undefined99e67688-0ac9-48d3-b967-4857d706cf3a/index.html</link>
+            <link>https://thegrid.ai/why-wellington/99e67688-0ac9-48d3-b967-4857d706cf3a/index.html</link>
             <guid isPermaLink="false">99e67688-0ac9-48d3-b967-4857d706cf3a</guid>
             <pubDate>Mon, 28 Mar 2016 01:53:56 GMT</pubDate>
         </item>
